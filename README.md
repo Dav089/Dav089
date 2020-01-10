@@ -1,2 +1,2 @@
-# Dav089
-Hola personitas del mundo exterior, bienvenido a mi git hub
+# userscrud
+Esqueleto de proyecto que permite la gestión de usuarios dentro de una base de datos
